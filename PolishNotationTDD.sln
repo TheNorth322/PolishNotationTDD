@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishNotationTDD", "PolishNotationTDD\PolishNotationTDD.csproj", "{0DEA1575-A45A-4556-8C7F-DE0511A4D426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishNotationTests", "PolishNotationTests\PolishNotationTests.csproj", "{3B73F4B4-E689-469C-BB8C-F186E797EAE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEA1575-A45A-4556-8C7F-DE0511A4D426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEA1575-A45A-4556-8C7F-DE0511A4D426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEA1575-A45A-4556-8C7F-DE0511A4D426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEA1575-A45A-4556-8C7F-DE0511A4D426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B73F4B4-E689-469C-BB8C-F186E797EAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B73F4B4-E689-469C-BB8C-F186E797EAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B73F4B4-E689-469C-BB8C-F186E797EAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B73F4B4-E689-469C-BB8C-F186E797EAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
